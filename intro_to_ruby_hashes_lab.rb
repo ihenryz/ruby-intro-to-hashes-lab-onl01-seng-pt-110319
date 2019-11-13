@@ -22,6 +22,7 @@ def monopoly_with_second_tier
 	  :railroads => 
 	  {
 	    :values => 4,
+	  }
 	}
 end
 
